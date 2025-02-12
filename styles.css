@@ -50,7 +50,7 @@ nav ul li a:hover {
 /* Header Section */
 header {
     text-align: center;
-    padding: 120px 20px 60px;
+    padding: 120px 20px ;
     background: linear-gradient(to right, #7488a9, #1e3c72);
     color: white;
 }
