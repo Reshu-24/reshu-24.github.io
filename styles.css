@@ -49,7 +49,7 @@ nav ul li a:hover {
     transform: scale(1.1);
 }
 
-nav ul li {
+section ul li {
     background: #eef1f7;
     margin: 8px 0;
     padding: 10px;
@@ -58,7 +58,7 @@ nav ul li {
     line-height: 1.6;
 }
 
-nav ul li:hover {
+section ul li:hover {
     background: #d0e0f7;
 }
 
